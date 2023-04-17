@@ -1,2 +1,2 @@
 # dxnautouser
-Auto User Registration Plugin(Wordpress)
+Automatically registers users after they place an order in WooCommerce and sends them a confirmation message.
